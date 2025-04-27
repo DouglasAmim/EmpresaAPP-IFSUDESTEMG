@@ -14,7 +14,6 @@ O app simula um sistema de cadastro e login de usuários para uma empresa fictí
 
 - Tela de Cadastro:
   - Cadastro de Nome, E-mail, Senha, CPF, Sexo, Data de Nascimento, Endereço, Telefone, Cidade e Estado.
-  - Máscara automática para CPF, Telefone e Data de Nascimento.
   - Validação de preenchimento obrigatório.
   - Botão de visibilidade da senha.
 
